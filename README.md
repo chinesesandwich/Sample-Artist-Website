@@ -1,2 +1,2 @@
-# Sample-Artist-Website
-Sample of Artists Website
+# Sample-Environmental-Website
+Sample of Environmental Website
